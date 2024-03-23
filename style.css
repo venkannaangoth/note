@@ -1,0 +1,43 @@
+.container{
+    width: auto;
+    height: 530px;
+    border: solid;
+}
+header, footer {
+    height: 100px;
+    background-color: antiquewhite;
+    font-size: 40px;
+    color: white;
+}
+nav{
+    height: 30px;
+    background-color: blueviolet;
+}
+.box{
+    display: flex;
+    height: 300px;
+    justify-content: space-evenly;
+}
+#bsc{
+    width: 300px;
+    background-color: aqua;
+}
+    #bcom{
+        width: 300px;
+        background-color: aqua;
+    }
+    #ba{
+        width: 300px;
+        background-color: aqua;
+    }
+
+h1{
+    text-align: center;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
